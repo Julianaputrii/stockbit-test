@@ -9,7 +9,12 @@ This project use
 - **Ruby** as the Language
 - **Cucumber + RSpec** as Test Framework
 - **HTTParty** as HTTP Client
-- use **bundle exec cucumber** to run the test
+
+## Step
+- Install ruby
+- Clone this repo using `git@github.com:Julianaputrii/stockbit-test.git`
+- Install gem `bundle install`
+- Run with this command `bundle exec cucumber`
 
 ## Local Output
 <img width="500" height="200" alt="api_automation" src="https://github.com/user-attachments/assets/c5d742d7-01b4-4231-913b-66f4879faad4" />
