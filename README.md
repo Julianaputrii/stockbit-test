@@ -12,7 +12,7 @@ This project use
 
 ## Step
 - Install ruby
-- Clone this repo using `git@github.com:Julianaputrii/stockbit-test.git`
+- Clone this repo using `git clone git@github.com:Julianaputrii/stockbit-test.git`
 - Install gem `bundle install`
 - Run with this command `bundle exec cucumber`
 
